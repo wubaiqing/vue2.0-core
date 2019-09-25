@@ -1,7 +1,5 @@
 // -------------- 6 watcher登场 + ed music --------------
 ; (function () {
-  // return
-
   class Dep {
     constructor() {
       this.subs = [];

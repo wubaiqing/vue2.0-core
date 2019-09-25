@@ -1,6 +1,5 @@
 // -------------- 2 最简核心原理 --------------
 ; (function () {
-  return
   const app = document.getElementById('app')
 
 

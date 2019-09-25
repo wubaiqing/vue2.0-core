@@ -1,6 +1,5 @@
 // -------------- 3 可以支持多个数据, 多个html元素的使用 --------------
 ; (function () {
-  return
   const app = document.getElementById('app')
 
 
